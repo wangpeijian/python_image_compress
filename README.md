@@ -1,0 +1,2 @@
+# python_image_compress
+python脚本实现批量图片压缩
